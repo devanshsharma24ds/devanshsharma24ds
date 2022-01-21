@@ -5,6 +5,6 @@
 - 📫 How to reach me devanshsharma24.ds@gmail.com
 
 <!---
-devanshsharma24ds/devanshsharma24ds is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+pro1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
