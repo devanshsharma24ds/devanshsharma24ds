@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devanshsharma24ds
+- 👋 Hi, I’m @devansh.sharma
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Github
 - 💞️ I’m looking to collaborate on new projects.
